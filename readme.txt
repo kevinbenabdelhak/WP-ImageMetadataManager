@@ -17,9 +17,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 #### Fonctionnalités principales :
 
 1. **Automatisation des métadonnées** : Générez automatiquement des attributs `alt`, des titres, des légendes et des descriptions à partir du nom du fichier d'image.
-2. **Optimisation pour le SEO** : Améliorez la visibilité de votre site sur les moteurs de recherche en vous assurant que chaque image possède des métadonnées pertinentes et optimisées.
-3. **Personnalisation simple** : Modifiez le format des noms pour répondre à vos besoins, y compris la gestion des espaces et des tirets.
-4. **Intégration transparente** : Fonctionne parfaitement avec l'interface de gestion des médias de WordPress, sans configuration complexe.
+2. **Optimisation pour le SEO** : Améliorez la visibilité de votre site sur les moteurs de recherche en vous assurant que chaque image possède des métadonnées.
+3. **Intégration transparente** : Fonctionne parfaitement avec l'interface de gestion des médias de WordPress, sans configuration complexe.
 
 #### Cas d'utilisation :
 - **Blogging** : Assurez-vous que toutes vos images sont correctement étiquetées pour le référencement.
