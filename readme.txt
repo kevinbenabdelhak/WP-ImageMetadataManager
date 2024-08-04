@@ -4,7 +4,7 @@ Tags: developer, WordPress, media, image management, alt text
 Requires at least: 5.0
 Tested up to: 6.5.3
 Requires PHP: 7.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Non, le plugin est léger et n'affecte pas les performances de votre site.
 
 == Changelog ==
+= 1.1 =
+* Ajout des accents 
 
 = 1.0 =
 * Premier lancement du plugin.
