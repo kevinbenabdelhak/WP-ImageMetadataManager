@@ -22,8 +22,8 @@ function set_image_meta_same_title( $attachment_id ) {
     update_post_meta( $attachment_id, '_wp_attachment_image_alt', $attachment_title );
     wp_update_post( array(
         'ID' => $attachment_id,
-        'post_excerpt' => $attachment_title, // Caption
-        'post_content' => $attachment_title, // Description
+        'post_excerpt' => $attachment_title,
+        'post_content' => $attachment_title,
     ) );
 }
 add_action( 'add_attachment', 'set_image_meta_same_title' );
