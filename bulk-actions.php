@@ -4,7 +4,6 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-
 function imm_add_generate_bulk_action($bulk_actions)
 {
     $bulk_actions['generate_attributes'] = __('Remplir les informations (à partir du nom de fichier)', 'wp-imagemetadata-manager');
