@@ -13,6 +13,5 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-// Inclure les fichiers nécessaires
 require_once plugin_dir_path(__FILE__) . 'image-meta-functions.php';
 require_once plugin_dir_path(__FILE__) . 'bulk-actions.php';
