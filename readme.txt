@@ -29,7 +29,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 == Installation ==
 
 1. **Téléchargez le fichier ZIP du plugin :**
-   Rendez-vous sur la page de "WP ImageMetadataManager" sur WordPress.org et téléchargez le fichier ZIP du plugin.
+   Rendez-vous sur la page https://github.com/kevinbenabdelhak/WP-ImageMetadataManager et télécharger le fichier en cliquant sur Code, puis télécharger en zip.
 
 2. **Uploader le fichier ZIP du plugin :**
    - Allez dans le panneau d'administration de WordPress et cliquez sur "Extensions" > "Ajouter".
