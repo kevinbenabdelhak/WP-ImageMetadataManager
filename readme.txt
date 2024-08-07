@@ -2,7 +2,7 @@
 Contributors: kevinbenabdelhak
 Tags: developer, WordPress, media, image management, alt text
 Requires at least: 5.0
-Tested up to: 6.5.3
+Tested up to: 6.6.1
 Requires PHP: 7.0
 Stable tag: 1.2
 License: GPLv2 or later
