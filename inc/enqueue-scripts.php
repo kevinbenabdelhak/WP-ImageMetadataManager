@@ -6,7 +6,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 add_action('admin_enqueue_scripts', 'imm_enqueue_scripts');
 
 function imm_enqueue_scripts($hook) {
