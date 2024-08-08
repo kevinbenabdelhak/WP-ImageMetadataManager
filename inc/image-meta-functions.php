@@ -6,7 +6,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 function set_image_meta_same_title($attachment_id) {
     $attachment = get_post($attachment_id);
 
