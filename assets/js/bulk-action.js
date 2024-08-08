@@ -4,7 +4,6 @@
 jQuery(document).ready(function($) {
 
     $("#doaction, #doaction2").after('<div id="imm_progress_wrapper" style="width: 100%;"><progress id="imm_progress" max="100" value="0" style="width: 100%; display: none;"></progress><span id="imm_progress_text" style="display: none; margin-left: 10px;"></span></div>');
-
     $("#doaction, #doaction2").click(function(e) {
         var action = $(this).prev("select").val();
         if (action === "generate_attributes_file" || action === "generate_attributes_gpt-4o" || action === "generate_attributes_gpt-4o-mini") {
