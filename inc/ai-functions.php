@@ -6,7 +6,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 function set_image_meta_ai($attachment_id) {
     $result = generate_image_meta_with_gpt4o($attachment_id);
     if ($result !== false) {
