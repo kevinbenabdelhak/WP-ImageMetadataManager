@@ -55,7 +55,7 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 == Changelog ==
 
 = 1.3 =
-* Ajout de gpt-4 et gpt-4o, restructuration du plugin
+* Ajout de gpt-4o et gpt-4o mini, restructuration du plugin
 
 = 1.2 =
 * Ajout d'un bouton dans les actions groupées (en vue liste), pour générer les valeurs en bulk
