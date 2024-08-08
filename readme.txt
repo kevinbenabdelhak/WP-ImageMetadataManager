@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 ### WP ImageMetadataManager – Améliorez la gestion de vos images
 
-**WP ImageMetadataManager** est un plugin WordPress puissant qui automatise l'ajout d'attributs `alt`, de titres, de légendes et de descriptions pour vos images lors de leur téléversement grâce au nom du fichier où avec l'IA (gpt-4 ou gpt-4o)
+**WP ImageMetadataManager** est un plugin WordPress puissant qui automatise l'ajout d'attributs `alt`, de titres, de légendes et de descriptions pour vos images lors de leur téléversement grâce au nom du fichier où avec l'IA (gpt-4o ou gpt-4o mini)
 
 #### Fonctionnalités principales :
 
@@ -20,7 +20,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 2. **Optimisation pour le SEO** : Améliorez la visibilité de votre site sur les moteurs de recherche en vous assurant que chaque image possède des métadonnées.
 3. **Intégration transparente** : Fonctionne parfaitement avec l'interface de gestion des médias de WordPress, sans configuration complexe.
 4. **Possibilité de générer les valeurs d'anciennes images** : En mode liste, vous pouvez désormais générer les valeurs automatiquement en bulk.
-5. **Activer l'IA** : Générez toutes les valeurs avec gpt-4 ou gpt-4o.
+5. **Activer l'IA** : Générez toutes les valeurs avec gpt-4o ou gpt-4o mini.
 
 #### Cas d'utilisation :
 - **Blogging** : Assurez-vous que toutes vos images sont correctement étiquetées pour le référencement.
