@@ -6,7 +6,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 add_action('admin_menu', 'imm_add_admin_menu');
 
 function imm_add_admin_menu() {
