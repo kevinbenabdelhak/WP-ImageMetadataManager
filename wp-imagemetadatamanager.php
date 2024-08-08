@@ -12,7 +12,6 @@ License: GPLv3
 if (!defined('ABSPATH')) {
     exit;
 }
-
 require_once plugin_dir_path(__FILE__) . 'inc/image-meta-functions.php';
 require_once plugin_dir_path(__FILE__) . 'inc/ai-functions.php';
 require_once plugin_dir_path(__FILE__) . 'inc/admin-settings.php';
