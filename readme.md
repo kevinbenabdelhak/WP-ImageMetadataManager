@@ -21,7 +21,7 @@
 ## Installation
 
 1. **Téléchargez le fichier ZIP du plugin :**
-   Rendez-vous sur la page [GitHub de WP ImageMetadataManager](https://github.com/kevinbenabdelhak/WP-ImageMetadataManager) et téléchargez le fichier en cliquant sur "Code", puis "Download ZIP".
+   Rendez-vous sur la page de [WP ImageMetadataManager](https://kevin-benabdelhak.fr/plugins/wp-imagemetadatamanager/) et téléchargez le plugin gratuitement.
 
 2. **Uploader le fichier ZIP du plugin :**
    - Allez dans le panneau d'administration de WordPress et cliquez sur "Extensions" > "Ajouter".
