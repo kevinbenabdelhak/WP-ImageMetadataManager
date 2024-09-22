@@ -44,6 +44,10 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 
 ## Changelog
 
+### 1.4
+* Ajout d'une case à cocher pour désactiver les alt auto au téleversement des images (car la fonctionnalité peut être en conflit avec d'autres plugins d'optimisations d'images)
+
+* 
 ### 1.3
 * Ajout de gpt-4o et gpt-4o mini, restructuration du plugin.
 
@@ -57,12 +61,9 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 * Premier lancement du plugin.
 * Ajout des fonctionnalités de base pour l'automatisation des métadonnées d'image.
 
-## Upgrade Notice
-
-### 1.0
-* Premier lancement du plugin.
 
 ## Notes supplémentaires
 
 * Utilisez "WP ImageMetadataManager" pour améliorer la gestion de vos images et optimiser votre SEO.
 * Restez à jour avec les futures versions pour de nouvelles fonctionnalités et améliorations.
+* Si vous avez un bug avec un autre plugin, activez la case à cocher qui permet de désactiver les alt auto lors du téléversement des images
