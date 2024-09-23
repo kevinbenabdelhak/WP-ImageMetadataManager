@@ -15,8 +15,8 @@
 ## Cas d'utilisation :
 
 - **Blogging** : Assurez-vous que toutes vos images sont correctement étiquetées pour le référencement.
-- **Sites de e-commerce** : Aidez les clients à mieux comprendre vos produits avec des descriptions claires et des légendes.
-- **Sites éducatifs** : Facilitez la compréhension des images avec des métadonnées précises.
+- **Site e-commerce** : Aidez les clients à mieux comprendre vos produits avec des descriptions claires et des légendes.
+- **Site éducatif** : Facilitez la compréhension des images avec des métadonnées précises.
 
 ## Installation
 
