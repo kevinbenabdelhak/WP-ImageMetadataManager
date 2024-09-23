@@ -123,10 +123,17 @@ add_action('wp_generate_attachment_metadata', 'imm_set_meta_on_upload_after_meta
 
 function imm_set_meta_on_upload_after_metadata($metadata, $attachment_id) {
     $default_generator = get_option('imm_default_generator', 'current');
-    if ($default_generator === 'gpt-4o') {
+    $auto_generation_disabled = get_option('imm_auto_generation', 'no') === 'yes';
+
+    if ($auto_generation_disabled) {
+        return $metadata;
+    }
+
+    if ($default_generator === 'gpt-4o' || $default_generator === 'gpt-4o-mini') {
         set_image_meta_ai($attachment_id);
     } else {
         set_image_meta_same_title($attachment_id);
     }
+
     return $metadata;
 }

@@ -4,7 +4,7 @@ Tags: developer, WordPress, media, image management, alt text
 Requires at least: 5.0
 Tested up to: 6.6.1
 Requires PHP: 7.0
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,10 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 
 == Changelog ==
 
+= 1.4 =
+* Ajout d'une case pour désactiver les alt auto lors du téleversement (sinon, peut être en conflit avec d'autres plugins d'images)
+
+
 = 1.3 =
 * Ajout de gpt-4o et gpt-4o mini, restructuration du plugin
 
@@ -66,11 +70,6 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 = 1.0 =
 * Premier lancement du plugin.
 * Ajout des fonctionnalités de base pour l'automatisation des métadonnées d'image.
-
-== Upgrade Notice ==
-
-= 1.0 =
-* Premier lancement du plugin.
 
 == Notes supplémentaires ==
 

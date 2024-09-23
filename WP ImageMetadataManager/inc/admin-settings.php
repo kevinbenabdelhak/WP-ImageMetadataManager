@@ -41,6 +41,7 @@ add_action('admin_init', 'imm_register_settings');
 function imm_register_settings() {
     register_setting('imm_options_group', 'imm_api_key');
     register_setting('imm_options_group', 'imm_default_generator');
+    register_setting('imm_options_group', 'imm_auto_generation');
 
     add_settings_section(
         'imm_settings_section',
@@ -64,6 +65,21 @@ function imm_register_settings() {
         'imm-options',
         'imm_settings_section'
     );
+    
+    add_settings_field(
+        'imm_auto_generation',
+        'Désactiver la génération automatique lors du téléversement',
+        'imm_auto_generation_field_html',
+        'imm-options',
+        'imm_settings_section'
+    );
+}
+
+function imm_auto_generation_field_html() {
+    $disabled = get_option('imm_auto_generation', 'no');
+    ?>
+    <input type="checkbox" name="imm_auto_generation" value="yes" <?php checked($disabled, 'yes'); ?> />
+    <?php
 }
 
 function imm_api_key_field_html() {
