@@ -67,3 +67,7 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 * Utilisez "WP ImageMetadataManager" pour améliorer la gestion de vos images et optimiser votre SEO.
 * Restez à jour avec les futures versions pour de nouvelles fonctionnalités et améliorations.
 * Si vous avez un bug avec un autre plugin, activez la case à cocher qui permet de désactiver les alt auto lors du téléversement des images
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
