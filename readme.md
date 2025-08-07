@@ -44,6 +44,9 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 
 ## Changelog
 
+### 1.6
+* Ajout de gpt-5-mini, gpt-5-nano
+
 ### 1.5
 * Ajout de gpt-5
 
@@ -74,4 +77,5 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 <a href="https://kevin-benabdelhak.fr/soutenir/">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
 </a>
+
 
