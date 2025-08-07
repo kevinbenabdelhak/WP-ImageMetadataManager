@@ -92,6 +92,8 @@ function imm_default_generator_field_html() {
     ?>
     <select name="imm_default_generator">
         <option value="current" <?php selected($default_generator, 'current'); ?>>À partir du nom de fichier</option>
+        <option value="gpt-5-nano" <?php selected($default_generator, 'gpt-5-nano'); ?>>À partir de GPT-5-NANO</option>
+        <option value="gpt-5-mini" <?php selected($default_generator, 'gpt-5-mini'); ?>>À partir de GPT-5-MINI</option>
         <option value="gpt-5" <?php selected($default_generator, 'gpt-5'); ?>>À partir de GPT-5</option>
         <option value="gpt-4o" <?php selected($default_generator, 'gpt-4o'); ?>>À partir de GPT-4o</option>
         <option value="gpt-4o-mini" <?php selected($default_generator, 'gpt-4o-mini'); ?>>À partir de GPT-4o Mini</option>

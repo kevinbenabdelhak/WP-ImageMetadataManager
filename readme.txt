@@ -54,6 +54,9 @@ Non, le plugin est léger et n'affecte pas les performances de votre site.
 
 == Changelog ==
 
+= 1.6 =
+* Ajout de gpt-5-mini, gpt-5-nano
+
 = 1.5 =
 * Ajout de gpt-5
 
